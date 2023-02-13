@@ -1,0 +1,15 @@
+{
+  "name": "Forward Protocol",
+  "slug": "forward",
+  "date": "2022-02-01",
+  "highlight": "Create Blockchains, Subnets, and dApps with a No-Code Interface, Wordpress for web3.",
+  "logo": "/img/fplogo.png",
+  "tags": ["ecosystem","infrastructure","marketplace","utility"],
+  "status": "coming soon",
+  "website": "https://forwardprotocol.io/",
+  "twitter": "https://twitter.com/ForwardProtocol",
+  "summary": "Forward Factory has a no-code, drag-and-drop interface.\nPlatforms that deploy contracts through Forward Factory can set the fees (revenue model) for users on their platform, turn features on/off, modify terms/policies, and easily integrate these modifications with their business model.\n\nThe process is designed to help platforms deploy and become blockchain-ready with a much shorter lead time than it would take to develop a platform themselves.\n\nDevelopers create and upload open-source applications of any kind and users will be able to customize them in the user-friendly UI. All of these applications will be made available for the community to plug-and-play. The users will be able to the Forward Factory, select the template of their choice, customize the UI, customize the smart contract according to their needs and deploy it on the chain of their choice. \n\nThe developers’ community is encouraged to create new applications in the open-source model to grow the blockchain revolution. Smart contract developers can contribute to the Forward Factory to extend the templates in the smart contracts library.",
+  "telegram": "https://t.me/forwardprotocolofficial",
+  "discord": "https://discord.com/invite/X6HYF8dHYQ",
+  "github":"https://github.com/ForwardProtocol",
+}
